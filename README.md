@@ -1,6 +1,6 @@
 ## I'm MesRouxVais 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MesRouxVais&layout=compact&theme=gruvbox)
+![mesrouxvais GitHub stats](https://github-readme-stats.vercel.app/api?username=mesrouxvais&show_icons=true&theme=radical)
 <!--
 **MesRouxVais/MesRouxVais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
