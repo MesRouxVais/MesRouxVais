@@ -1,5 +1,4 @@
 <h1 >Hi 👋, I'm mesrouxvais</h1>
-<h3 >Future French student in computer science 🥖🍇</h3>
 
 <h3 ">Languages and Tools:</h3>
 
